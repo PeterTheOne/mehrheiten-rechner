@@ -1,0 +1,914 @@
+[
+  {
+    "Anrede": "Frau",
+    "Name Funktion": "Gemeinderätin",
+    "akad_Vor": "Mag.a",
+    "Vorname_text": "Susanne",
+    "Familienname": "Bauer",
+    "akad_Nach": "",
+    "Fraktion": "SPÖ",
+    "Straße": "Mannagettaweg",
+    "HAUS-Nr": "7b/5",
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "susanne.bauer@akstmk.at",
+    "seat": {
+      "x": 0,
+      "y": 1
+    },
+    "image": "Bauer_150_200.jpg"
+  },
+  {
+    "Anrede": "Frau",
+    "Name Funktion": "Gemeinderätin",
+    "akad_Vor": "",
+    "Vorname_text": "Ina",
+    "Familienname": "Bergmann",
+    "akad_Nach": "",
+    "Fraktion": "KPÖ",
+    "Straße": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "ina.bergmann@kpoe-graz.at",
+    "seat": {
+      "x": 6,
+      "y": 0
+    },
+    "image": "Bergmann_150_200.jpg"
+  },
+  {
+    "Anrede": "Frau",
+    "Name Funktion": "Gemeinderätin",
+    "akad_Vor": "Dipl.-Mus.",
+    "Vorname_text": "Christine",
+    "Familienname": "Braunersreuther",
+    "akad_Nach": "",
+    "Fraktion": "KPÖ",
+    "Straße": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "christine.braunersreuther@kpoe-graz.at",
+    "seat": {
+      "x": 6,
+      "y": 1
+    },
+    "image": "Braunersreuther_150_200.jpg"
+  },
+  {
+    "Anrede": "Frau",
+    "Name Funktion": "Gemeinderätin",
+    "akad_Vor": "Mag.a (FH)",
+    "Vorname_text": "Petra",
+    "Familienname": "Brenneis",
+    "akad_Nach": "",
+    "Fraktion": "SPÖ",
+    "Straße": "Forstweg",
+    "HAUS-Nr": "92b",
+    "PLZ": 8046,
+    "ORT": "Graz",
+    "E-Mail": "petra.brenneis@stadt.graz.at",
+    "seat": {
+      "x": 0,
+      "y": 2
+    },
+    "image": "150x200 Brenneis26.jpg"
+  },
+  {
+    "Anrede": "Herrn",
+    "Name Funktion": "Gemeinderat",
+    "akad_Vor": "",
+    "Vorname_text": "Karl",
+    "Familienname": "Dreisiebner",
+    "akad_Nach": "",
+    "Fraktion": "Grüne",
+    "Straße": "Neubaugasse",
+    "HAUS-Nr": "56/28",
+    "PLZ": 8020,
+    "ORT": "Graz",
+    "E-Mail": "karl.dreisiebner@gruene.at",
+    "seat": {
+      "x": 6,
+      "y": 5
+    },
+    "image": "Dreisiebner_150_200.jpg"
+  },
+  {
+    "Anrede": "Herrn",
+    "Name Funktion": "Gemeinderat",
+    "akad_Vor": "",
+    "Vorname_text": "Manfred",
+    "Familienname": "Eber",
+    "akad_Nach": "",
+    "Fraktion": "KPÖ",
+    "Straße": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "manfred.eber@kpoe-graz.at",
+    "seat": {
+      "x": 7,
+      "y": 0
+    },
+    "image": "Eber_150_200.jpg"
+  },
+  {
+    "Anrede": "Herrn",
+    "Name Funktion": "Gemeinderat",
+    "akad_Vor": "Mag.",
+    "Vorname_text": "Andreas",
+    "Familienname": "Fabisch",
+    "akad_Nach": "",
+    "Fraktion": "KPÖ",
+    "Straße": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "andreas.fabisch@aon.at",
+    "seat": {
+      "x": 8,
+      "y": 0
+    },
+    "image": "Fabisch_150_200.jpg"
+  },
+  {
+    "Anrede": "Herrn",
+    "Name Funktion": "Gemeinderat",
+    "akad_Vor": "Mag.",
+    "Vorname_text": "Klaus",
+    "Familienname": "Frölich",
+    "akad_Nach": "",
+    "Fraktion": "ÖVP",
+    "Straße": "Geidorfgürtel",
+    "HAUS-Nr": 38,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "klaus.froelich@stadt.graz.at",
+    "seat": {
+      "x": 4,
+      "y": 0
+    },
+    "image": "Froehlich_150_200.jpg"
+  },
+  {
+    "Anrede": "Frau",
+    "Name Funktion": "Gemeinderätin",
+    "akad_Vor": "",
+    "Vorname_text": "Daniela",
+    "Familienname": "Gmeinbauer",
+    "akad_Nach": "",
+    "Fraktion": "ÖVP",
+    "Straße": "Mela-Spira-Straße",
+    "HAUS-Nr": "27e",
+    "PLZ": 8054,
+    "ORT": "Graz",
+    "E-Mail": "daniela.gmeinbauer@aft.at",
+    "seat": {
+      "x": 3,
+      "y": 0
+    },
+    "image": "Dani GmeinbauerNeu_150x200.jpg"
+  },
+  {
+    "Anrede": "Frau",
+    "Name Funktion": "Gemeinderätin",
+    "akad_Vor": "Mag.a Dipl-Ing.in (FH)",
+    "Vorname_text": "Daniela",
+    "Familienname": "Grabe",
+    "akad_Nach": "",
+    "Fraktion": "Grüne",
+    "Straße": "Lendkai",
+    "HAUS-Nr": 29,
+    "PLZ": 8020,
+    "ORT": "Graz",
+    "E-Mail": "daniela.grabe@gruene.at",
+    "seat": {
+      "x": 8,
+      "y": 4
+    },
+    "image": "Grabe_150_200.jpg"
+  },
+  {
+    "Anrede": "Herrn",
+    "Name Funktion": "Gemeinderat",
+    "akad_Vor": "",
+    "Vorname_text": "Michael",
+    "Familienname": "Grossmann",
+    "akad_Nach": "",
+    "Fraktion": "SPÖ",
+    "Straße": "Anselm-Franz-Gasse",
+    "HAUS-Nr": 56,
+    "PLZ": 8055,
+    "ORT": "Graz",
+    "E-Mail": "michael.grossmann@stadt.graz.at",
+    "seat": {
+      "x": 2,
+      "y": 0
+    },
+    "image": "Grossmann_150_200.jpg"
+  },
+  {
+    "Anrede": "Frau",
+    "Name Funktion": "Gemeinderätin",
+    "akad_Vor": "",
+    "Vorname_text": "Waltraud",
+    "Familienname": "Haas-Wippel",
+    "akad_Nach": "MA",
+    "Fraktion": "SPÖ",
+    "Straße": "Mittelstraße",
+    "HAUS-Nr": 3,
+    "PLZ": 8041,
+    "ORT": "Graz",
+    "E-Mail": "waltraud.haas-wippel@gmx.at",
+    "seat": {
+      "x": 1,
+      "y": 0
+    },
+    "image": "HaasWippel_150_200.jpg"
+  },
+  {
+    "Anrede": "Herrn",
+    "Name Funktion": "Gemeinderat",
+    "akad_Vor": "",
+    "Vorname_text": "Stefan",
+    "Familienname": "Haberler",
+    "akad_Nach": "",
+    "Fraktion": "ÖVP",
+    "Straße": "Pachlerweg",
+    "HAUS-Nr": 12,
+    "PLZ": 8043,
+    "ORT": "Graz",
+    "E-Mail": "stefan.haberler@stadt.graz.at",
+    "seat": {
+      "x": 3,
+      "y": 4
+    },
+    "image": "Haberler_150_200.jpg"
+  },
+  {
+    "Anrede": "Herrn",
+    "Name Funktion": "Gemeinderat",
+    "akad_Vor": "Mag.",
+    "Vorname_text": "Gerald",
+    "Familienname": "Haßler",
+    "akad_Nach": "",
+    "Fraktion": "SPÖ",
+    "Straße": "Gradlbauerweg",
+    "HAUS-Nr": 37,
+    "PLZ": 8054,
+    "ORT": "Graz",
+    "E-Mail": "gerald.hassler@inode.at",
+    "seat": {
+      "x": 0,
+      "y": 0
+    },
+    "image": "Haßler_150_200.jpg"
+  },
+  {
+    "Anrede": "Frau",
+    "Name Funktion": "Gemeinderätin",
+    "akad_Vor": "",
+    "Vorname_text": "Elke",
+    "Familienname": "Heinrichs",
+    "akad_Nach": "",
+    "Fraktion": "KPÖ",
+    "Straße": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "elke.heinrichs@kpoe-graz.at",
+    "seat": {
+      "x": 7,
+      "y": 2
+    },
+    "image": "Heinrichs_150_200.jpg"
+  },
+  {
+    "Anrede": "Frau",
+    "Name Funktion": "Gemeinderätin",
+    "akad_Vor": "",
+    "Vorname_text": "Ingrid",
+    "Familienname": "Heuberger",
+    "akad_Nach": "",
+    "Fraktion": "ÖVP",
+    "Straße": "Eintrachtgasse",
+    "HAUS-Nr": 83,
+    "PLZ": 8041,
+    "ORT": "Graz",
+    "E-Mail": "ingrid.heuberger@tele2.at",
+    "seat": {
+      "x": 5,
+      "y": 3
+    },
+    "image": "Heuberger_150_200.jpg"
+  },
+  {
+    "Anrede": "Herrn",
+    "Name Funktion": "Gemeinderat",
+    "akad_Vor": "Dr.",
+    "Vorname_text": "Philipp",
+    "Familienname": "Hofer",
+    "akad_Nach": "",
+    "Fraktion": "ÖVP",
+    "Straße": "Humboldtstraße",
+    "HAUS-Nr": "17/3",
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "ph.hofer@stehv.at",
+    "seat": {
+      "x": 4,
+      "y": 2
+    },
+    "image": "Hofer_150_200.jpg"
+  },
+  {
+    "Anrede": "Herrn",
+    "Name Funktion": "Gemeinderat",
+    "akad_Vor": "",
+    "Vorname_text": "Christoph",
+    "Familienname": "Hötzl",
+    "akad_Nach": "",
+    "Fraktion": "FPÖ",
+    "Straße": "Fruhmannweg",
+    "HAUS-Nr": "12 L",
+    "PLZ": 8042,
+    "ORT": "Graz",
+    "E-Mail": "christoph.hoetzl@stadt.graz.at",
+    "seat": {
+      "x": 1,
+      "y": 2
+    },
+    "image": "Hoetzl_150_200.jpg"
+  },
+  {
+    "Anrede": "Frau",
+    "Name Funktion": "Gemeinderätin",
+    "akad_Vor": "",
+    "Vorname_text": "Karin",
+    "Familienname": "Katholnig",
+    "akad_Nach": "",
+    "Fraktion": "SPÖ",
+    "Straße": "Johann-Weitzer-Weg",
+    "HAUS-Nr": "57/1",
+    "PLZ": 8041,
+    "ORT": "Graz",
+    "E-Mail": "k.katholnig@gmail.com",
+    "seat": {
+      "x": 2,
+      "y": 1
+    },
+    "image": "Katholnig_150_200.jpg"
+  },
+  {
+    "Anrede": "Frau",
+    "Name Funktion": "Gemeinderätin",
+    "akad_Vor": "",
+    "Vorname_text": "Martina",
+    "Familienname": "Kaufmann",
+    "akad_Nach": "MSc BA",
+    "Fraktion": "ÖVP",
+    "Straße": "Babenbergerstraße",
+    "HAUS-Nr": 9,
+    "PLZ": 8020,
+    "ORT": "Graz",
+    "E-Mail": "martina.kaufmann@stadt.graz.at",
+    "seat": {
+      "x": 5,
+      "y": 1
+    },
+    "image": "Kaufmann_150_200.jpg"
+  },
+  {
+    "Anrede": "Frau",
+    "Name Funktion": "Gemeinderätin",
+    "akad_Vor": "Univ.-Prof.in  Dr.in",
+    "Vorname_text": "Daisy",
+    "Familienname": "Kopera",
+    "akad_Nach": "",
+    "Fraktion": "ÖVP",
+    "Straße": "Kaiser-Josef-Platz",
+    "HAUS-Nr": 3,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "daisy.kopera@stadt.graz.at",
+    "seat": {
+      "x": 3,
+      "y": 3
+    },
+    "image": "Kopera_150_200.jpg"
+  },
+  {
+    "Anrede": "Herrn",
+    "Name Funktion": "Gemeinderat",
+    "akad_Vor": "Mag.",
+    "Vorname_text": "Robert",
+    "Familienname": "Krotzer",
+    "akad_Nach": "",
+    "Fraktion": "KPÖ",
+    "Straße": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "robert.krotzer@kpoe-graz.at",
+    "seat": {
+      "x": 8,
+      "y": 2
+    },
+    "image": "Krotzer_150_200.jpg"
+  },
+  {
+    "Anrede": "Herrn",
+    "Name Funktion": "Gemeinderat",
+    "akad_Vor": "Ing.",
+    "Vorname_text": "Roland",
+    "Familienname": "Lohr",
+    "akad_Nach": "",
+    "Fraktion": "FPÖ",
+    "Straße": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "roland.lohr@stadt.graz.at",
+    "seat": {
+      "x": 2,
+      "y": 3
+    },
+    "image": "Lohr_150_200.jpg"
+  },
+  {
+    "Anrede": "Herrn",
+    "Name Funktion": "Gemeinderat",
+    "akad_Vor": "",
+    "Vorname_text": "Kurt",
+    "Familienname": "Luttenberger",
+    "akad_Nach": "",
+    "Fraktion": "KPÖ",
+    "Straße": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "kurt.luttenberger@kpoe-graz.at",
+    "seat": {
+      "x": 6,
+      "y": 3
+    },
+    "image": "Luttenberger_150_200.jpg"
+  },
+  {
+    "Anrede": "Frau",
+    "Name Funktion": "Gemeinderätin",
+    "akad_Vor": "Mag.a",
+    "Vorname_text": "Alexandra Elisabeth",
+    "Familienname": "Marak-Fischer",
+    "akad_Nach": "",
+    "Fraktion": "SPÖ",
+    "Straße": "Lindweg",
+    "HAUS-Nr": "28a/3",
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "alexandra.marak@gmx.at",
+    "seat": {
+      "x": 1,
+      "y": 1
+    },
+    "image": "MarakFischer_150_200.jpg"
+  },
+  {
+    "Anrede": "Herrn",
+    "Name Funktion": "Gemeinderat",
+    "akad_Vor": "",
+    "Vorname_text": "Peter",
+    "Familienname": "Mayr",
+    "akad_Nach": "",
+    "Fraktion": "ÖVP",
+    "Straße": "Polzergasse",
+    "HAUS-Nr": 27,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "p.mayr@grazervp.at",
+    "seat": {
+      "x": 4,
+      "y": 4
+    },
+    "image": "MayrPe15.jpg"
+  },
+  {
+    "Anrede": "Herrn",
+    "Name Funktion": "Gemeinderat",
+    "akad_Vor": "",
+    "Vorname_text": "Berno",
+    "Familienname": "Mogel",
+    "akad_Nach": "",
+    "Fraktion": "FPÖ",
+    "Straße": "Münzgrabenstraße",
+    "HAUS-Nr": 73,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "berno.mogel@stadt.graz.at",
+    "seat": {
+      "x": 1,
+      "y": 4
+    },
+    "image": "Mogel_150_200.jpg"
+  },
+  {
+    "Anrede": "Herrn",
+    "Name Funktion": "Gemeinderat",
+    "akad_Vor": "Mag.",
+    "Vorname_text": "Andreas",
+    "Familienname": "Molnár",
+    "akad_Nach": "",
+    "Fraktion": "ÖVP",
+    "Straße": "Naglergasse 7",
+    "HAUS-Nr": 10,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "molnar.a@gmx.at",
+    "seat": {
+      "x": 5,
+      "y": 5
+    },
+    "image": "Molnar_150_200.jpg"
+  },
+  {
+    "Anrede": "Herrn",
+    "Name Funktion": "Gemeinderat",
+    "akad_Vor": "Mag.",
+    "Vorname_text": "Rudolf",
+    "Familienname": "Moser",
+    "akad_Nach": "",
+    "Fraktion": "FPÖ",
+    "Straße": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "rudolf.moser@stadt.graz.at",
+    "seat": {
+      "x": 2,
+      "y": 4
+    },
+    "image": "Moser14_150x200.jpg"
+  },
+  {
+    "Anrede": "Herrn",
+    "Name Funktion": "Gemeinderat",
+    "akad_Vor": "",
+    "Vorname_text": "Philip",
+    "Familienname": "Pacanda",
+    "akad_Nach": "",
+    "Fraktion": "Piratenpartei",
+    "Straße": "Wegenergasse",
+    "HAUS-Nr": "21/4",
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "philip.pacanda@piratenpartei.at",
+    "seat": {
+      "x": 3,
+      "y": 5
+    },
+    "image": "Pacanda_150_200.jpg"
+  },
+  {
+    "Anrede": "Frau",
+    "Name Funktion": "Gemeinderätin",
+    "akad_Vor": "Mag.a",
+    "Vorname_text": "Andrea Claudia",
+    "Familienname": "Pavlovec-Meixner",
+    "akad_Nach": "",
+    "Fraktion": "Grüne",
+    "Straße": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "andrea.pavlovec-meixner@gruene.at",
+    "seat": {
+      "x": 7,
+      "y": 5
+    },
+    "image": "PavlovecM_150_200.jpg"
+  },
+  {
+    "Anrede": "Herrn",
+    "Name Funktion": "Gemeinderat",
+    "akad_Vor": "Dr.",
+    "Vorname_text": "Peter",
+    "Familienname": "Piffl-Percevic",
+    "akad_Nach": "",
+    "Fraktion": "ÖVP",
+    "Straße": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "peter.piffl-percevic@stadt.graz.at",
+    "seat": {
+      "x": 5,
+      "y": 0
+    },
+    "image": "PifflP_150_200.jpg"
+  },
+  {
+    "Anrede": "Herrn",
+    "Name Funktion": "Gemeinderat",
+    "akad_Vor": "",
+    "Vorname_text": "Harry",
+    "Familienname": "Pogner",
+    "akad_Nach": "",
+    "Fraktion": "ÖVP",
+    "Straße": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "harry.pogner@stadt.graz.at",
+    "seat": {
+      "x": 3,
+      "y": 1
+    },
+    "image": "Pogner_150_200.jpg"
+  },
+  {
+    "Anrede": "Frau",
+    "Name Funktion": "Gemeinderätin",
+    "akad_Vor": "Mag.a",
+    "Vorname_text": "Astrid",
+    "Familienname": "Polz-Watzenig",
+    "akad_Nach": "",
+    "Fraktion": "Grüne",
+    "Straße": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "astrid.polz@gruene.at",
+    "seat": {
+      "x": 7,
+      "y": 4
+    },
+    "image": "PolzWatzenig_150_200.jpg"
+  },
+  {
+    "Anrede": "Frau",
+    "Name Funktion": "Gemeinderätin",
+    "akad_Vor": "",
+    "Vorname_text": "Elisabeth",
+    "Familienname": "Potzinger",
+    "akad_Nach": "",
+    "Fraktion": "ÖVP",
+    "Straße": "Geibelgasse",
+    "HAUS-Nr": 15,
+    "PLZ": 8042,
+    "ORT": "Graz",
+    "E-Mail": "potzinger.family@aon.at",
+    "seat": {
+      "x": 4,
+      "y": 1
+    },
+    "image": "Potzinger_150_200.jpg"
+  },
+  {
+    "Anrede": "Herrn",
+    "Name Funktion": "Gemeinderat",
+    "akad_Vor": "",
+    "Vorname_text": "Thomas",
+    "Familienname": "Rajakovics",
+    "akad_Nach": "",
+    "Fraktion": "ÖVP",
+    "Straße": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "thomas.rajakovics@stadt.graz.at",
+    "seat": {
+      "x": 5,
+      "y": 4
+    },
+    "image": "Rajakovics15.jpg"
+  },
+  {
+    "Anrede": "Frau",
+    "Name Funktion": "Gemeinderätin",
+    "akad_Vor": "",
+    "Vorname_text": "Bedrana",
+    "Familienname": "Ribo",
+    "akad_Nach": "MA",
+    "Fraktion": "Grüne",
+    "Straße": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "bedrana.ribo@stadt.graz.at",
+    "seat": {
+      "x": 8,
+      "y": 5
+    },
+    "image": "GR_Ribo13.jpg"
+  },
+  {
+    "Anrede": "Herrn",
+    "Name Funktion": "Gemeinderat",
+    "akad_Vor": "DI (FH)",
+    "Vorname_text": "Markus",
+    "Familienname": "Schimautz",
+    "akad_Nach": "MA",
+    "Fraktion": "ÖVP",
+    "Straße": "Münzgrabenstraße",
+    "HAUS-Nr": 47,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "markus@schimautz.info",
+    "seat": {
+      "x": 4,
+      "y": 5
+    },
+    "image": "Schimautz_150_200.jpg"
+  },
+  {
+    "Anrede": "Frau",
+    "Name Funktion": "Gemeinderätin",
+    "akad_Vor": "Mag.a",
+    "Vorname_text": "Astrid",
+    "Familienname": "Schleicher",
+    "akad_Nach": "",
+    "Fraktion": "FPÖ",
+    "Straße": "Reintalweg",
+    "HAUS-Nr": 33,
+    "PLZ": 8042,
+    "ORT": "Graz",
+    "E-Mail": "astrid.schleicher@stadt.graz.at",
+    "seat": {
+      "x": 1,
+      "y": 3
+    },
+    "image": "Schleicher_150_200.jpg"
+  },
+  {
+    "Anrede": "Frau",
+    "Name Funktion": "Gemeinderätin",
+    "akad_Vor": "",
+    "Vorname_text": "Claudia",
+    "Familienname": "Schönbacher",
+    "akad_Nach": "",
+    "Fraktion": "FPÖ",
+    "Straße": "Adalbert-Stifter-Gasse",
+    "HAUS-Nr": 4,
+    "PLZ": 8020,
+    "ORT": "Graz",
+    "E-Mail": "claudia.schoenbacher@stadt.graz.at",
+    "seat": {
+      "x": 0,
+      "y": 3
+    },
+    "image": "Schoenbacher_150_200.jpg"
+  },
+  {
+    "Anrede": "Herrn",
+    "Name Funktion": "Gemeinderat",
+    "akad_Vor": "",
+    "Vorname_text": "Christian",
+    "Familienname": "Sikora",
+    "akad_Nach": "",
+    "Fraktion": "KPÖ",
+    "Straße": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "christian.sikora@kpoe-graz.at",
+    "seat": {
+      "x": 6,
+      "y": 2
+    },
+    "image": "Sikora_150_200.jpg"
+  },
+  {
+    "Anrede": "Herrn",
+    "Name Funktion": "Gemeinderat",
+    "akad_Vor": "Mag.",
+    "Vorname_text": "Armin",
+    "Familienname": "Sippel",
+    "akad_Nach": "",
+    "Fraktion": "FPÖ",
+    "Straße": "Pfeifferhofweg",
+    "HAUS-Nr": "30b",
+    "PLZ": 8045,
+    "ORT": "Graz",
+    "E-Mail": "armin.sippel@stadt.graz.at",
+    "seat": {
+      "x": 2,
+      "y": 2
+    },
+    "image": "Sippel_150_200.jpg"
+  },
+  {
+    "Anrede": "Herrn",
+    "Name Funktion": "Gemeinderat",
+    "akad_Vor": "Mag.",
+    "Vorname_text": "Gerhard",
+    "Familienname": "Spath",
+    "akad_Nach": "",
+    "Fraktion": "ÖVP",
+    "Straße": "Petrifelderstraße",
+    "HAUS-Nr": 57,
+    "PLZ": 8042,
+    "ORT": "Graz",
+    "E-Mail": "g.spath@grazervp.at",
+    "seat": {
+      "x": 3,
+      "y": 2
+    },
+    "image": "Spath_150_200.jpg"
+  },
+  {
+    "Anrede": "Herrn",
+    "Name Funktion": "Gemeinderat",
+    "akad_Vor": "",
+    "Vorname_text": "Peter",
+    "Familienname": "Stöckler",
+    "akad_Nach": "",
+    "Fraktion": "ÖVP",
+    "Straße": "Artur-Michl-Gasse",
+    "HAUS-Nr": 27,
+    "PLZ": 8042,
+    "ORT": "Graz",
+    "E-Mail": "peter.stoeckler@stadt.graz.at",
+    "seat": {
+      "x": 4,
+      "y": 3
+    },
+    "image": "Stoeckler_150_200.jpg"
+  },
+  {
+    "Anrede": "Frau",
+    "Name Funktion": "Gemeinderätin",
+    "akad_Vor": "Mag.a",
+    "Vorname_text": "Ulrike",
+    "Familienname": "Taberhofer",
+    "akad_Nach": "",
+    "Fraktion": "KPÖ",
+    "Straße": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "uli.taberhofer@kpoe-graz.at",
+    "seat": {
+      "x": 8,
+      "y": 1
+    },
+    "image": "Taberhofer_150_200.jpg"
+  },
+  {
+    "Anrede": "Frau",
+    "Name Funktion": "Gemeinderätin",
+    "akad_Vor": "",
+    "Vorname_text": "Martina",
+    "Familienname": "Thomüller",
+    "akad_Nach": "",
+    "Fraktion": "KPÖ",
+    "Straße": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "martina.thomueller@kpoe-graz.at",
+    "seat": {
+      "x": 7,
+      "y": 1
+    },
+    "image": "Thomueller_150_200.jpg"
+  },
+  {
+    "Anrede": "Herrn",
+    "Name Funktion": "Gemeinderat",
+    "akad_Vor": "DI",
+    "Vorname_text": "Georg",
+    "Familienname": "Topf",
+    "akad_Nach": "",
+    "Fraktion": "ÖVP",
+    "Straße": "Amselgasse",
+    "HAUS-Nr": 27,
+    "PLZ": 8020,
+    "ORT": "Graz",
+    "E-Mail": "georg.topf@gmx.at",
+    "seat": {
+      "x": 5,
+      "y": 2
+    },
+    "image": "Topf 150x200.jpg"
+  },
+  {
+    "Anrede": "Herrn",
+    "Name Funktion": "Gemeinderat",
+    "akad_Vor": "Dr.",
+    "Vorname_text": "Gerhard",
+    "Familienname": "Wohlfahrt",
+    "akad_Nach": "",
+    "Fraktion": "Grüne",
+    "Straße": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "gerhard.wohlfahrt@gruene.at",
+    "seat": {
+      "x": 6,
+      "y": 4
+    },
+    "image": "Wohlfahrt_150_200.jpg"
+  }
+]
