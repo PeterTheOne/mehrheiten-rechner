@@ -15,7 +15,7 @@ h2 {
 }
 
 .seats td {
-    padding: 5px;
+    padding: 5px 5px 20px 5px;
 }
 
 .seats td:nth-child(3n+3) {
@@ -27,6 +27,7 @@ h2 {
 }
 
 .seat {
+    position: relative;
     background-size: cover;
     width: 100px;
     height: 100px;
@@ -34,6 +35,11 @@ h2 {
     transform-style: preserve-3d;
     transition: all 0.5s ease;
     cursor: pointer;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 80px;
+    text-shadow: 1px 2px 1px black, 0px 0px 3px black;
+    line-height: 15px;
 }
 
 .seat.gone {
@@ -41,6 +47,13 @@ h2 {
     -webkit-filter: grayscale(100%);
     filter: grayscale(100%);
     transform: rotateY(180deg);
+}
+
+.seat .name {
+    width: 100%;
+    position: absolute;
+    bottom: -15px;
+    left: 0;
 }
 
 .parties {
@@ -69,27 +82,27 @@ h2 {
     border-radius: 10%;
 }
 
-.övp {
+.oevp {
     color: #ffffff;
     background-color: #000000;
 }
 
-.kpö {
+.kpoe {
     color: #ffffff;
     background-color: #aa0000;
 }
 
-.spö {
+.spoe {
     color: #ffffff;
     background-color: #E31E2D;
 }
 
-.fpö {
+.fpoe {
     color: #ffffff;
     background-color: #205CA5;
 }
 
-.grüne {
+.gruene {
     color: #ffffff;
     background-color: #51A51E;
 }

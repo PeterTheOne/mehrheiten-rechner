@@ -11,11 +11,11 @@
   };
 
   var partyNames = {
-    "ÖVP": '<span class="partyName övp">ÖVP</span>',
-    "KPÖ": '<span class="partyName kpö">KPÖ</span>',
-    "SPÖ": '<span class="partyName spö">SPÖ</span>',
-    "FPÖ": '<span class="partyName fpö">FPÖ</span>',
-    "Grüne": '<span class="partyName grüne">GRÜNE</span>',
+    "ÖVP": '<span class="partyName oevp">ÖVP</span>',
+    "KPÖ": '<span class="partyName kpoe">KPÖ</span>',
+    "SPÖ": '<span class="partyName spoe">SPÖ</span>',
+    "FPÖ": '<span class="partyName fpoe">FPÖ</span>',
+    "Grüne": '<span class="partyName gruene">GRÜNE</span>',
     "Piratenpartei": '<span class="partyName pirat">PIRAT</span>'
   };
 
@@ -156,6 +156,9 @@
         if (member) {
           $seat.data('member-id', member.id);
           $seat.attr('title', member.name);
+          var $name = $('<span class="name">');
+          $name.text(member.Vorname_text + ' ' + member.Familienname);
+          $seat.append($name);
           var color = partyColors[member.Fraktion];
           $seat.css('background-image', "url('images/members/" + member.image + "')");
           $cell.css('background-color', color);
