@@ -35,8 +35,11 @@
       $.each(self.list, function (index, member) {
         member.id = index;
         member.gone = false;
-        member.name = member.akad_Vor + ' ' + member.Vorname_text + ' ' + member.Familienname + ' ' + member.akad_Nach +
-            ' (' + member.Fraktion + ')';
+        member.name = '';
+        member.name += member.akad_Vor ? member.akad_Vor + ' ': '';
+        member.name += member.Vorname_text + ' ' + member.Familienname + ' ';
+        member.name += member.akad_Nach ? member.akad_Nach + ' ': '';
+        member.name += '(' + member.Fraktion + ')';
       });
       self.calculateDimensions();
       self.createMatrix();
