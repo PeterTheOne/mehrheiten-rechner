@@ -189,7 +189,7 @@
     $members.append($('<tr>').html('<td>Gesamt: </td><td>' + membersCount.numberMembers + '</td>'));
     $members.append($('<tr>').html('<td>Anwesend: </td><td>' + membersCount.numberMembersHere + '</td>'));
     $members.append($('<tr>').html('<td>Abwesend: </td><td>' + membersCount.numberMembersGone + '</td>'));
-    $members.append($('<tr>').html('<td>Mehrheit ab: </td><td>' + Math.floor((membersCount.numberMembersHere / 2) + 1) + '</td>'));
+    $members.append($('<tr>').html('<td>Mehrheit mit: </td><td>' + Math.floor((membersCount.numberMembersHere / 2) + 1) + '</td>'));
   }
 
   function updateParties(councilMembers) {
