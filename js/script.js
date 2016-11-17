@@ -180,6 +180,9 @@
       }
       $seats.prepend($row);
     }
+
+    // center table
+    $('.table-outer').scrollLeft(($('.seats').width() / 2) - ($(window).width() / 2));
   }
 
   function updateMembers(councilMembers) {
