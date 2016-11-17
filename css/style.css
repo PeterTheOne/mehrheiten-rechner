@@ -1,5 +1,4 @@
 body {
-    padding-bottom: 300px;
 }
 
 h1 {
@@ -8,6 +7,10 @@ h1 {
 
 h2 {
     text-align: center;
+}
+
+.table-outer {
+    overflow-x: auto;
 }
 
 .seats {
@@ -112,3 +115,15 @@ h2 {
     background-color: #6E17A1;
 }
 
+.info {
+    margin-top: 15px;
+    text-align: center;
+    color: #777777;
+}
+
+.footer {
+    margin-top: 200px;
+    padding-top: 19px;
+    color: #777777;
+    border-top: 1px solid #e5e5e5;
+}

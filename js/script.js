@@ -198,7 +198,7 @@
 
     $.each(parties, function (index, party) {
       var $party = $('<tr>');
-      $party.html('<td>' + partyNames[party.id] + '</td><td>' +party.numberMembersHere + '</td>');
+      $party.html('<td>' + partyNames[party.id] + '</td><td>' + party.numberMembersHere + '</td><td>(' + party.numberMembers + ')</td>');
       $parties.append($party);
     });
   }
@@ -288,7 +288,7 @@
 
     $.each(majorities, function (index, majority) {
       var $line = $('<tr>');
-      $line.html(majority.name + ' = ' + majority.numberMembersHere);
+      $line.html('<td>' + majority.name + '</td><td> = ' + majority.numberMembersHere + '</td>');
       $majorities.append($line);
     });
   }
