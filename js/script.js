@@ -182,7 +182,7 @@
     }
 
     // center table
-    $('.table-outer').scrollLeft(($('.seats').width() / 2) - ($(window).width() / 2));
+    $('.table-outer').animate({ scrollLeft: ($('.seats').width() / 2) - ($(window).width() / 2) }, 600);
   }
 
   function updateMembers(councilMembers) {
