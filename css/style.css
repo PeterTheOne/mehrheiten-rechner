@@ -30,6 +30,7 @@ h2 {
 }
 
 .seat {
+    background-color: #ffffff;
     position: relative;
     background-size: cover;
     width: 100px;
@@ -113,6 +114,11 @@ h2 {
 .pirat {
     color: #ffffff;
     background-color: #6E17A1;
+}
+
+.neos {
+    color: #ffffff;
+    background-color: #E84188;
 }
 
 .info {

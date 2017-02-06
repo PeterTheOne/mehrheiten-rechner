@@ -7,7 +7,8 @@
     "SPÖ": '#E31E2D',
     "FPÖ": '#205CA5',
     "Grüne": '#51A51E',
-    "Piratenpartei": '#6E17A1'
+    "Piratenpartei": '#6E17A1',
+    "NEOS": '#E84188'
   };
 
   var partyNames = {
@@ -16,7 +17,8 @@
     "SPÖ": '<span class="partyName spoe">SPÖ</span>',
     "FPÖ": '<span class="partyName fpoe">FPÖ</span>',
     "Grüne": '<span class="partyName gruene">GRÜNE</span>',
-    "Piratenpartei": '<span class="partyName pirat">PIRAT</span>'
+    "Piratenpartei": '<span class="partyName pirat">PIRAT</span>',
+    "NEOS": '<span class="partyName neos">NEOS</span>'
   };
 
   var CouncilMembers = function () {
