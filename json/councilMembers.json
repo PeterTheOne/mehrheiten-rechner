@@ -1,913 +1,865 @@
 [
   {
-    "Anrede": "",
-    "Name Funktion": "",
     "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
+    "Familienname": "Alic",
+    "Vorname_text": "Thomas Horst",
     "akad_Nach": "",
     "Fraktion": "KPÖ",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
-    "seat": {
-      "x": 6,
-      "y": 0
-    },
-    "image": ""
-  },
-  {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
-    "akad_Nach": "",
-    "Fraktion": "KPÖ",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
-    "seat": {
-      "x": 6,
-      "y": 1
-    },
-    "image": ""
-  },
-  {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
-    "akad_Nach": "",
-    "Fraktion": "Grüne",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
-    "seat": {
-      "x": 6,
-      "y": 5
-    },
-    "image": ""
-  },
-  {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
-    "akad_Nach": "",
-    "Fraktion": "KPÖ",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
+    "Zustelladresse": "KPÖ-Klub, Rathaus",
+    "": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
     "ORT": "Graz",
-    "E-Mail": "",
+    "E-Mail": "thomashorst.alic@stadt.graz.at",
     "seat": {
-      "x": 7,
-      "y": 0
+      "x": 9,
+      "y": 5
     },
-    "image": ""
+    "image": "Alic_Horst.jpg"
   },
   {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
+    "akad_Vor": "DI.in",
+    "Familienname": "Braunersreuther",
+    "Vorname_text": "Christine",
     "akad_Nach": "",
     "Fraktion": "KPÖ",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
-    "seat": {
-      "x": 8,
-      "y": 0
-    },
-    "image": ""
-  },
-  {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
-    "akad_Nach": "",
-    "Fraktion": "ÖVP",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
+    "Zustelladresse": "KPÖ-Klub, Rathaus",
+    "": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
     "ORT": "Graz",
-    "E-Mail": "",
+    "E-Mail": "christine.braunersreuther@stadt.graz.at",
+    "seat": {
+      "x": 6,
+      "y": 4
+    },
+    "image": "Braunesreuther_Christine.jpg"
+  },
+  {
+    "akad_Vor": "",
+    "Familienname": "Dreisiebner",
+    "Vorname_text": "Karl",
+    "akad_Nach": "",
+    "Fraktion": "Grüne",
+    "Zustelladresse": "Klub GRÜNE, Rathaus",
+    "": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "karl.dreisiebner@stadt.graz.at",
+    "seat": {
+      "x": 2,
+      "y": 3
+    },
+    "image": "Dreisiebner_Karl.jpg"
+  },
+  {
+    "akad_Vor": "",
+    "Familienname": "Eber",
+    "Vorname_text": "Manfred",
+    "akad_Nach": "",
+    "Fraktion": "KPÖ",
+    "Zustelladresse": "KPÖ-Klub, Rathaus",
+    "": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "manfred.eber@stadt.graz.at",
+    "seat": {
+      "x": 8,
+      "y": 3
+    },
+    "image": "Eber_Manfred.jpg"
+  },
+  {
+    "akad_Vor": "Mag. (FH)",
+    "Familienname": "Egger",
+    "Vorname_text": "Kurt",
+    "akad_Nach": "",
+    "Fraktion": "ÖVP",
+    "Zustelladresse": "Theodor-Körner-Straße 175",
+    "": "",
+    "HAUS-Nr": "",
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "kurt.egger@stadt.graz.at",
+    "seat": {
+      "x": 0,
+      "y": 2
+    },
+    "image": "Egger_Kurt_Mag.jpg"
+  },
+  {
+    "akad_Vor": "",
+    "Familienname": "Ehmann",
+    "Vorname_text": "Michael",
+    "akad_Nach": "",
+    "Fraktion": "SPÖ",
+    "Zustelladresse": "SPÖ-Klub, Rathaus",
+    "": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "spoe.klub@stadt.graz.at",
+    "seat": {
+      "x": 5,
+      "y": 3
+    },
+    "image": "Ehmann_Michael.jpg"
+  },
+  {
+    "akad_Vor": "Mag.",
+    "Familienname": "Fabisch",
+    "Vorname_text": "Andreas",
+    "akad_Nach": "",
+    "Fraktion": "KPÖ",
+    "Zustelladresse": "KPÖ-Klub, Rathaus",
+    "": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "andreas.fabisch@stadt.graz.at",
+    "seat": {
+      "x": 7,
+      "y": 3
+    },
+    "image": "Fabisch_Andreas.jpg"
+  },
+  {
+    "akad_Vor": "Mag.",
+    "Familienname": "Frölich",
+    "Vorname_text": "Klaus",
+    "akad_Nach": "",
+    "Fraktion": "ÖVP",
+    "Zustelladresse": "",
+    "": "Schaftalstraße",
+    "HAUS-Nr": 39,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "klaus.froelich@stadt.graz.at",
     "seat": {
       "x": 4,
       "y": 0
     },
-    "image": ""
+    "image": "Froehlich_Klaus_Mag.jpg"
   },
   {
-    "Anrede": "",
-    "Name Funktion": "",
     "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
+    "Familienname": "Gmeinbauer",
+    "Vorname_text": "Daniela",
     "akad_Nach": "",
     "Fraktion": "ÖVP",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
+    "Zustelladresse": "",
+    "": "Bienengasse",
+    "HAUS-Nr": 23,
+    "PLZ": 8020,
+    "ORT": "Graz",
+    "E-Mail": "daniela.gmeinbauer@stadt.graz.at",
     "seat": {
-      "x": 3,
+      "x": 5,
       "y": 0
     },
-    "image": ""
+    "image": "Gmeinbauer_Daniela.jpg"
   },
   {
-    "Anrede": "",
-    "Name Funktion": "",
     "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
-    "akad_Nach": "",
-    "Fraktion": "SPÖ",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
+    "Familienname": "Haberler",
+    "Vorname_text": "Stefan",
+    "akad_Nach": "MBA, \nDipl.-Betriebswirt",
+    "Fraktion": "ÖVP",
+    "Zustelladresse": "",
+    "": "Pachlerweg",
+    "HAUS-Nr": 12,
+    "PLZ": 8043,
+    "ORT": "Graz",
+    "E-Mail": "stefan.haberler@stadt.graz.at",
     "seat": {
       "x": 2,
-      "y": 0
+      "y": 2
     },
-    "image": ""
+    "image": "Haberler Stefan_MBA.jpg"
   },
   {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
+    "akad_Vor": "Mag.",
+    "Familienname": "Haßler",
+    "Vorname_text": "Gerald",
     "akad_Nach": "",
     "Fraktion": "SPÖ",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
+    "Zustelladresse": "SPÖ-Klub, Rathaus",
+    "": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "gerald.hassler@stadt.graz.at",
+    "seat": {
+      "x": 3,
+      "y": 3
+    },
+    "image": "Haßler_Gerald.jpg"
+  },
+  {
+    "akad_Vor": "",
+    "Familienname": "Heinrichs",
+    "Vorname_text": "Elke",
+    "akad_Nach": "",
+    "Fraktion": "KPÖ",
+    "Zustelladresse": "KPÖ-Klub, Rathaus",
+    "": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "elke.heinrichs@stadt.graz.at",
+    "seat": {
+      "x": 6,
+      "y": 3
+    },
+    "image": "Heinrichs_Elke.jpg"
+  },
+  {
+    "akad_Vor": "",
+    "Familienname": "Hopper",
+    "Vorname_text": "Anna",
+    "akad_Nach": "",
+    "Fraktion": "ÖVP",
+    "Zustelladresse": "",
+    "": "Abstallerstraße",
+    "HAUS-Nr": 40,
+    "PLZ": 8052,
+    "ORT": "Graz",
+    "E-Mail": "anna.hopper@stadt.graz.at",
+    "seat": {
+      "x": 4,
+      "y": 1
+    },
+    "image": "Hopper_Anna.jpg"
+  },
+  {
+    "akad_Vor": "",
+    "Familienname": "Hötzl",
+    "Vorname_text": "Christoph",
+    "akad_Nach": "",
+    "Fraktion": "FPÖ",
+    "Zustelladresse": "",
+    "": "Fruhmannweg",
+    "HAUS-Nr": "12 L",
+    "PLZ": 8042,
+    "ORT": "Graz",
+    "E-Mail": "christoph.hoetzl@stadt.graz.at",
+    "seat": {
+      "x": 7,
+      "y": 0
+    },
+    "image": "Hoetzl_Christoph.jpg"
+  },
+  {
+    "akad_Vor": "",
+    "Familienname": "Kaufmann",
+    "Vorname_text": "Martina",
+    "akad_Nach": "MMSc BA",
+    "Fraktion": "ÖVP",
+    "Zustelladresse": "",
+    "": "Babenbergerstraße",
+    "HAUS-Nr": 9,
+    "PLZ": 8020,
+    "ORT": "Graz",
+    "E-Mail": "martina.kaufmann@stadt.graz.at",
     "seat": {
       "x": 1,
       "y": 0
     },
-    "image": ""
+    "image": "Kaufmann_Martina.jpg"
   },
   {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
+    "akad_Vor": "Univ.-Prof.in  Dr.in",
+    "Familienname": "Kopera",
+    "Vorname_text": "Daisy",
     "akad_Nach": "",
     "Fraktion": "ÖVP",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
+    "Zustelladresse": "",
+    "": "Kaiser-Josef-Platz",
+    "HAUS-Nr": 3,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "daisy.kopera@stadt.graz.at",
+    "seat": {
+      "x": 3,
+      "y": 1
+    },
+    "image": "Kopera_Daisy.jpg"
+  },
+  {
+    "akad_Vor": "",
+    "Familienname": "Kreiner",
+    "Vorname_text": "Marion",
+    "akad_Nach": "",
+    "Fraktion": "ÖVP",
+    "Zustelladresse": "ÖVP-Club, Rathaus",
+    "": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "marion.kreiner@stadt.graz.at",
+    "seat": {
+      "x": 4,
+      "y": 2
+    },
+    "image": "Kreiner_Marion.jpg"
+  },
+  {
+    "akad_Vor": "",
+    "Familienname": "Kumpitsch",
+    "Vorname_text": "Verena",
+    "akad_Nach": "",
+    "Fraktion": "ÖVP",
+    "Zustelladresse": "",
+    "": "Niesenbergergasse",
+    "HAUS-Nr": 51,
+    "PLZ": 8020,
+    "ORT": "Graz",
+    "E-Mail": "verena.kumpitsch@stadt.graz.at",
+    "seat": {
+      "x": 1,
+      "y": 1
+    },
+    "image": "Kumpitsch_Verena.jpg"
+  },
+  {
+    "akad_Vor": "Ing.",
+    "Familienname": "Lohr",
+    "Vorname_text": "Roland",
+    "akad_Nach": "",
+    "Fraktion": "FPÖ",
+    "Zustelladresse": "",
+    "": "Frühlingstraße",
+    "HAUS-Nr": 46,
+    "PLZ": 8053,
+    "ORT": "Graz",
+    "E-Mail": "roland.lohr@stadt.graz.at",
+    "seat": {
+      "x": 7,
+      "y": 1
+    },
+    "image": "Lohr_Roland.jpg"
+  },
+  {
+    "akad_Vor": "Mag.a",
+    "Familienname": "Marak-Fischer",
+    "Vorname_text": "Alexandra Elisabeth",
+    "akad_Nach": "",
+    "Fraktion": "SPÖ",
+    "Zustelladresse": "SPÖ-Klub, Rathaus",
+    "": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "alexandraelisabeth.marak-fischer@stadt.graz.at",
+    "seat": {
+      "x": 4,
+      "y": 3
+    },
+    "image": "Marak_Fischer_Alexandra.jpg"
+  },
+  {
+    "akad_Vor": "",
+    "Familienname": "Mogel",
+    "Vorname_text": "Berno",
+    "akad_Nach": "",
+    "Fraktion": "FPÖ",
+    "Zustelladresse": "",
+    "": "Münzgrabenstraße",
+    "HAUS-Nr": 73,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "berno.mogel@stadt.graz.at",
+    "seat": {
+      "x": 6,
+      "y": 2
+    },
+    "image": "Mogel_Bermo.jpg"
+  },
+  {
+    "akad_Vor": "Mag.a",
+    "Familienname": "Mohsenzada",
+    "Vorname_text": "Sahar",
+    "akad_Nach": "",
+    "Fraktion": "KPÖ",
+    "Zustelladresse": "KPÖ-Klub, Rathaus",
+    "": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "sahar.mosenzada@stadt.graz.at",
+    "seat": {
+      "x": 8,
+      "y": 5
+    },
+    "image": "Mohsenzada_Sahar_Mag.jpg"
+  },
+  {
+    "akad_Vor": "Mag.",
+    "Familienname": "Moser",
+    "Vorname_text": "Rudolf",
+    "akad_Nach": "",
+    "Fraktion": "FPÖ",
+    "Zustelladresse": "",
+    "": "Bergstraße",
+    "HAUS-Nr": 73,
+    "PLZ": 8020,
+    "ORT": "Graz",
+    "E-Mail": "rudolf.moser@stadt.graz.at",
+    "seat": {
+      "x": 8,
+      "y": 2
+    },
+    "image": "Moser_Rudolf_Mag.jpg"
+  },
+  {
+    "akad_Vor": "Mag. (FH)",
+    "Familienname": "Muhr",
+    "Vorname_text": "Ewald",
+    "akad_Nach": "MSc",
+    "Fraktion": "SPÖ",
+    "Zustelladresse": "SPÖ-Klub, Rathaus",
+    "": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "ewald.muhr@stadt.graz.at",
     "seat": {
       "x": 3,
       "y": 4
     },
-    "image": ""
+    "image": "Muhr_Ewald.jpg"
   },
   {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
+    "akad_Vor": "Mag.a",
+    "Familienname": "Pavlovec-Meixner",
+    "Vorname_text": "Andrea Claudia",
     "akad_Nach": "",
-    "Fraktion": "SPÖ",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
+    "Fraktion": "Grüne",
+    "Zustelladresse": "Klub GRÜNE, Rathaus",
+    "": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "andrea.pavlovec-meixner@stadt.graz.at",
+    "seat": {
+      "x": 2,
+      "y": 4
+    },
+    "image": "Pavlovec_Meixner_Andrea.jpg"
+  },
+  {
+    "akad_Vor": "Dr.",
+    "Familienname": "Piffl-Percevic",
+    "Vorname_text": "Peter",
+    "akad_Nach": "",
+    "Fraktion": "ÖVP",
+    "Zustelladresse": "ÖVP-Club, Rathaus",
+    "": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "peter.piffl-percevic@stadt.graz.at",
+    "seat": {
+      "x": 3,
+      "y": 0
+    },
+    "image": "Piffl_Percevic_Peter_Dr.jpg"
+  },
+  {
+    "akad_Vor": "",
+    "Familienname": "Pogner",
+    "Vorname_text": "Harry",
+    "akad_Nach": "",
+    "Fraktion": "ÖVP",
+    "Zustelladresse": "ÖVP-Club, Rathaus",
+    "": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "harry.pogner@stadt.graz.at",
+    "seat": {
+      "x": 2,
+      "y": 0
+    },
+    "image": "Pogner_Harry.jpg"
+  },
+  {
+    "akad_Vor": "",
+    "Familienname": "Potzinger",
+    "Vorname_text": "Elisabeth",
+    "akad_Nach": "",
+    "Fraktion": "ÖVP",
+    "Zustelladresse": "",
+    "": "Geibelgasse",
+    "HAUS-Nr": 15,
+    "PLZ": 8042,
+    "ORT": "Graz",
+    "E-Mail": "sissi.potzinger@stadt.graz.at",
     "seat": {
       "x": 0,
       "y": 0
     },
-    "image": ""
+    "image": "Potzinger_Elisabeth.jpg"
   },
   {
-    "Anrede": "",
-    "Name Funktion": "",
     "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
-    "akad_Nach": "",
-    "Fraktion": "KPÖ",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
-    "seat": {
-      "x": 7,
-      "y": 2
-    },
-    "image": ""
-  },
-  {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
+    "Familienname": "Rajakovics",
+    "Vorname_text": "Thomas",
     "akad_Nach": "",
     "Fraktion": "ÖVP",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
+    "Zustelladresse": "ÖVP-Club, Rathaus",
+    "": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "thomas.rajakovics@stadt.graz.at",
     "seat": {
-      "x": 5,
+      "x": 0,
+      "y": 1
+    },
+    "image": "Rajakovics_Thomas.jpg"
+  },
+  {
+    "akad_Vor": "",
+    "Familienname": "Ribo",
+    "Vorname_text": "Bedrana",
+    "akad_Nach": "MA",
+    "Fraktion": "Grüne",
+    "Zustelladresse": "Klub GRÜNE, Rathaus",
+    "": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "bedrana.ribo@stadt.graz.at",
+    "seat": {
+      "x": 1,
       "y": 3
     },
-    "image": ""
+    "image": "Ribo_Bedrana_MA.jpg"
   },
   {
-    "Anrede": "",
-    "Name Funktion": "",
     "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
+    "Familienname": "Robosch",
+    "Vorname_text": "Anna",
     "akad_Nach": "",
-    "Fraktion": "ÖVP",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
+    "Fraktion": "SPÖ",
+    "Zustelladresse": "SPÖ-Klub, Rathaus",
+    "": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "anna.robosch@stadt.graz.at",
     "seat": {
       "x": 4,
-      "y": 2
+      "y": 4
     },
-    "image": ""
+    "image": "Robosch_Anna.jpg"
   },
   {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
-    "akad_Nach": "",
-    "Fraktion": "FPÖ",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
+    "akad_Vor": "DI (FH)",
+    "Familienname": "Schimautz",
+    "Vorname_text": "Markus",
+    "akad_Nach": "MA",
+    "Fraktion": "ÖVP",
+    "Zustelladresse": "",
+    "": "Klosterwiesgasse",
+    "HAUS-Nr": "105a/17",
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "markus.schimautz@stadt.graz.at",
     "seat": {
       "x": 1,
       "y": 2
     },
-    "image": ""
+    "image": "Schimautz_Markus_DI.jpg"
   },
   {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
+    "akad_Vor": "Mag.a",
+    "Familienname": "Schleicher",
+    "Vorname_text": "Astrid",
     "akad_Nach": "",
     "Fraktion": "FPÖ",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
+    "Zustelladresse": "FPÖ-Klub, Rathaus",
+    "": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "astrid.schleicher@stadt.graz.at",
     "seat": {
-      "x": 0,
-      "y": 2
+      "x": 8,
+      "y": 0
     },
-    "image": ""
+    "image": "Schleicher_Astrid_Mag.jpg"
   },
   {
-    "Anrede": "",
-    "Name Funktion": "",
     "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
+    "Familienname": "Schönbacher",
+    "Vorname_text": "Claudia",
     "akad_Nach": "",
-    "Fraktion": "SPÖ",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
+    "Fraktion": "FPÖ",
+    "Zustelladresse": "",
+    "": "Adalbert-Stifter-Gasse",
+    "HAUS-Nr": 4,
+    "PLZ": 8020,
+    "ORT": "Graz",
+    "E-Mail": "claudia.schoenbacher@stadt.graz.at",
     "seat": {
-      "x": 2,
+      "x": 8,
       "y": 1
     },
-    "image": ""
+    "image": "Schoenbacher_Claudia.jpg"
   },
   {
-    "Anrede": "",
-    "Name Funktion": "",
     "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
+    "Familienname": "Schunko",
+    "Vorname_text": "Michael",
     "akad_Nach": "",
     "Fraktion": "ÖVP",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
+    "Zustelladresse": "",
+    "": "Mehlplatz",
+    "HAUS-Nr": 3,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "michael.schunko@stadt.graz.at",
     "seat": {
       "x": 5,
       "y": 1
     },
-    "image": ""
+    "image": "Schunko_Michael.jpg"
   },
   {
-    "Anrede": "",
-    "Name Funktion": "",
     "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
+    "Familienname": "Schwindsackl",
+    "Vorname_text": "Ernest",
     "akad_Nach": "",
     "Fraktion": "ÖVP",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
+    "Zustelladresse": "",
+    "": "Schnabelweg",
+    "HAUS-Nr": 9,
+    "PLZ": 8054,
+    "ORT": "Graz",
+    "E-Mail": "ernest.schwindsackl@stadt.graz.at",
     "seat": {
-      "x": 3,
-      "y": 3
+      "x": 2,
+      "y": 1
     },
-    "image": ""
+    "image": "Schwindsackl_Ernest.jpg"
   },
   {
-    "Anrede": "",
-    "Name Funktion": "",
     "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
+    "Familienname": "Sikora",
+    "Vorname_text": "Christian",
     "akad_Nach": "",
     "Fraktion": "KPÖ",
-    "Straße": "",
-    "HAUS-Nr": 0,
+    "Zustelladresse": "KPÖ-Klub, Rathaus",
+    "": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "christian.sikora@stadt.graz.at",
+    "seat": {
+      "x": 6,
+      "y": 5
+    },
+    "image": "Sikora_Christian.jpg"
+  },
+  {
+    "akad_Vor": "Mag.",
+    "Familienname": "Sippel",
+    "Vorname_text": "Armin",
+    "akad_Nach": "",
+    "Fraktion": "FPÖ",
+    "Zustelladresse": "",
+    "": "Pfeifferhofweg",
+    "HAUS-Nr": "30b",
+    "PLZ": 8045,
+    "ORT": "Graz",
+    "E-Mail": "armin.sippel@stadt.graz.at",
+    "seat": {
+      "x": 6,
+      "y": 0
+    },
+    "image": "Sippel_Armin_Mag.jpg"
+  },
+  {
+    "akad_Vor": "Mag.",
+    "Familienname": "Spath",
+    "Vorname_text": "Gerhard",
+    "akad_Nach": "",
+    "Fraktion": "ÖVP",
+    "Zustelladresse": "",
+    "": "Petrifelderstraße",
+    "HAUS-Nr": 57,
+    "PLZ": 8042,
+    "ORT": "Graz",
+    "E-Mail": "gerhard.spath@stadt.graz.at",
+    "seat": {
+      "x": 3,
+      "y": 2
+    },
+    "image": "Spath_Gerhard.jpg"
+  },
+  {
+    "akad_Vor": "",
+    "Familienname": "Stöckler",
+    "Vorname_text": "Peter",
+    "akad_Nach": "",
+    "Fraktion": "ÖVP",
+    "Zustelladresse": "",
+    "": "Artur-Michl-Gasse",
+    "HAUS-Nr": 27,
+    "PLZ": 8042,
+    "ORT": "Graz",
+    "E-Mail": "peter.stoeckler@stadt.graz.at",
+    "seat": {
+      "x": 6,
+      "y": 1
+    },
+    "image": "Stoeckler_Peter.jpg"
+  },
+  {
+    "akad_Vor": "",
+    "Familienname": "Swatek",
+    "Vorname_text": "Niko",
+    "akad_Nach": "",
+    "Fraktion": "Neos",
+    "Zustelladresse": "",
+    "": "Anschrift nicht bekanntgegeben",
+    "HAUS-Nr": "",
+    "PLZ": "",
+    "ORT": "Graz",
+    "E-Mail": "niko.swatek@stadt.graz.at",
+    "seat": {
+      "x": 0,
+      "y": 4
+    },
+    "image": "Swatek_Niko.jpg"
+  },
+  {
+    "akad_Vor": "Mag.a",
+    "Familienname": "Taberhofer",
+    "Vorname_text": "Ulrike",
+    "akad_Nach": "",
+    "Fraktion": "KPÖ",
+    "Zustelladresse": "KPÖ-Klub, Rathaus",
+    "": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "ulrike.taberhofer@stadt.graz.at",
+    "seat": {
+      "x": 7,
+      "y": 4
+    },
+    "image": "Taberhofer_Ulli_Mag.jpg"
+  },
+  {
+    "akad_Vor": "DI",
+    "Familienname": "Topf",
+    "Vorname_text": "Georg",
+    "akad_Nach": "",
+    "Fraktion": "ÖVP",
+    "Zustelladresse": "",
+    "": "Amselgasse",
+    "HAUS-Nr": 27,
+    "PLZ": 8020,
+    "ORT": "Graz",
+    "E-Mail": "georg.topf@stadt.graz.at",
+    "seat": {
+      "x": 5,
+      "y": 2
+    },
+    "image": "Topf_Georg.jpg"
+  },
+  {
+    "akad_Vor": "",
+    "Familienname": "Ussner",
+    "Vorname_text": "Tamara",
+    "akad_Nach": "",
+    "Fraktion": "Grüne",
+    "Zustelladresse": "Klub GRÜNE, Rathaus",
+    "": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "tamara.ussner@stadt.graz.at",
+    "seat": {
+      "x": 1,
+      "y": 4
+    },
+    "image": "Ussner_Tamara.jpg"
+  },
+  {
+    "akad_Vor": "",
+    "Familienname": "Wagner",
+    "Vorname_text": "Günter",
+    "akad_Nach": "",
+    "Fraktion": "FPÖ",
+    "Zustelladresse": "",
+    "": "Plabutscherstraße",
+    "HAUS-Nr": "123/2",
+    "PLZ": 8051,
+    "ORT": "Graz",
+    "E-Mail": "guenter.wagner@stadt.graz.at",
+    "seat": {
+      "x": 7,
+      "y": 2
+    },
+    "image": "Wagner_Guenter.jpg"
+  },
+  {
+    "akad_Vor": "",
+    "Familienname": "Wutte",
+    "Vorname_text": "Manuela",
+    "akad_Nach": "MA",
+    "Fraktion": "Grüne",
+    "Zustelladresse": "Klub GRÜNE, Rathaus",
+    "": "Hauptplatz",
+    "HAUS-Nr": 1,
+    "PLZ": 8010,
+    "ORT": "Graz",
+    "E-Mail": "manuela.wutte@stadt.graz.at",
+    "seat": {
+      "x": 0,
+      "y": 3
+    },
+    "image": "Wutte_Manuela.jpg"
+  },
+  {
+    "akad_Vor": "",
+    "Familienname": "?",
+    "Vorname_text": "?",
+    "akad_Nach": "",
+    "Fraktion": "KPÖ",
+    "Zustelladresse": "",
+    "": "",
+    "HAUS-Nr": 1,
     "PLZ": 0,
     "ORT": "",
     "E-Mail": "",
     "seat": {
       "x": 8,
-      "y": 2
+      "y": 4
     },
     "image": ""
   },
   {
-    "Anrede": "",
-    "Name Funktion": "",
     "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
-    "akad_Nach": "",
-    "Fraktion": "FPÖ",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
-    "seat": {
-      "x": 2,
-      "y": 3
-    },
-    "image": ""
-  },
-  {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
+    "Familienname": "?",
+    "Vorname_text": "?",
     "akad_Nach": "",
     "Fraktion": "KPÖ",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
-    "seat": {
-      "x": 6,
-      "y": 3
-    },
-    "image": ""
-  },
-  {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
-    "akad_Nach": "",
-    "Fraktion": "SPÖ",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
-    "seat": {
-      "x": 1,
-      "y": 1
-    },
-    "image": ""
-  },
-  {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
-    "akad_Nach": "",
-    "Fraktion": "ÖVP",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
-    "seat": {
-      "x": 4,
-      "y": 4
-    },
-    "image": ""
-  },
-  {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
-    "akad_Nach": "",
-    "Fraktion": "FPÖ",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
-    "seat": {
-      "x": 1,
-      "y": 4
-    },
-    "image": ""
-  },
-  {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
-    "akad_Nach": "",
-    "Fraktion": "ÖVP",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
-    "seat": {
-      "x": 5,
-      "y": 5
-    },
-    "image": ""
-  },
-  {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
-    "akad_Nach": "",
-    "Fraktion": "FPÖ",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
-    "seat": {
-      "x": 2,
-      "y": 4
-    },
-    "image": ""
-  },
-  {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
-    "akad_Nach": "",
-    "Fraktion": "ÖVP",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
-    "seat": {
-      "x": 3,
-      "y": 5
-    },
-    "image": ""
-  },
-  {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
-    "akad_Nach": "",
-    "Fraktion": "NEOS",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
-    "seat": {
-      "x": 1,
-      "y": 5
-    },
-    "image": ""
-  },
-  {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
-    "akad_Nach": "",
-    "Fraktion": "ÖVP",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
-    "seat": {
-      "x": 2,
-      "y": 5
-    },
-    "image": ""
-  },
-  {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
-    "akad_Nach": "",
-    "Fraktion": "Grüne",
-    "Straße": "",
-    "HAUS-Nr": 0,
+    "Zustelladresse": "",
+    "": "",
+    "HAUS-Nr": 1,
     "PLZ": 0,
     "ORT": "",
     "E-Mail": "",
     "seat": {
       "x": 7,
       "y": 5
-    },
-    "image": ""
-  },
-  {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
-    "akad_Nach": "",
-    "Fraktion": "ÖVP",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
-    "seat": {
-      "x": 5,
-      "y": 0
-    },
-    "image": ""
-  },
-  {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
-    "akad_Nach": "",
-    "Fraktion": "ÖVP",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
-    "seat": {
-      "x": 3,
-      "y": 1
-    },
-    "image": ""
-  },
-  {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
-    "akad_Nach": "",
-    "Fraktion": "Grüne",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
-    "seat": {
-      "x": 7,
-      "y": 4
-    },
-    "image": ""
-  },
-  {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
-    "akad_Nach": "",
-    "Fraktion": "ÖVP",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
-    "seat": {
-      "x": 4,
-      "y": 1
-    },
-    "image": ""
-  },
-  {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
-    "akad_Nach": "",
-    "Fraktion": "ÖVP",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
-    "seat": {
-      "x": 5,
-      "y": 4
-    },
-    "image": ""
-  },
-  {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
-    "akad_Nach": "",
-    "Fraktion": "Grüne",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
-    "seat": {
-      "x": 8,
-      "y": 5
-    },
-    "image": ""
-  },
-  {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
-    "akad_Nach": "",
-    "Fraktion": "ÖVP",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
-    "seat": {
-      "x": 4,
-      "y": 5
-    },
-    "image": ""
-  },
-  {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
-    "akad_Nach": "",
-    "Fraktion": "FPÖ",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
-    "seat": {
-      "x": 1,
-      "y": 3
-    },
-    "image": ""
-  },
-  {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
-    "akad_Nach": "",
-    "Fraktion": "FPÖ",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
-    "seat": {
-      "x": 0,
-      "y": 3
-    },
-    "image": ""
-  },
-  {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
-    "akad_Nach": "",
-    "Fraktion": "KPÖ",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
-    "seat": {
-      "x": 6,
-      "y": 2
-    },
-    "image": ""
-  },
-  {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
-    "akad_Nach": "",
-    "Fraktion": "FPÖ",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
-    "seat": {
-      "x": 2,
-      "y": 2
-    },
-    "image": ""
-  },
-  {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
-    "akad_Nach": "",
-    "Fraktion": "ÖVP",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
-    "seat": {
-      "x": 3,
-      "y": 2
-    },
-    "image": ""
-  },
-  {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
-    "akad_Nach": "",
-    "Fraktion": "ÖVP",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
-    "seat": {
-      "x": 4,
-      "y": 3
-    },
-    "image": ""
-  },
-  {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
-    "akad_Nach": "",
-    "Fraktion": "KPÖ",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
-    "seat": {
-      "x": 8,
-      "y": 1
-    },
-    "image": ""
-  },
-  {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
-    "akad_Nach": "",
-    "Fraktion": "KPÖ",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
-    "seat": {
-      "x": 7,
-      "y": 1
-    },
-    "image": ""
-  },
-  {
-    "Anrede": "",
-    "Name Funktion": "",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
-    "akad_Nach": "",
-    "Fraktion": "ÖVP",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
-    "seat": {
-      "x": 5,
-      "y": 2
-    },
-    "image": ""
-  },
-  {
-    "Anrede": "",
-    "Name Funktion": "Gemeinderat",
-    "akad_Vor": "",
-    "Vorname_text": "",
-    "Familienname": "",
-    "akad_Nach": "",
-    "Fraktion": "Grüne",
-    "Straße": "",
-    "HAUS-Nr": 0,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
-    "seat": {
-      "x": 6,
-      "y": 4
     },
     "image": ""
   }
