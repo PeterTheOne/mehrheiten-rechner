@@ -138,8 +138,8 @@
     parties = $.map(parties, function(value, index) {
       return [value];
     });
-    parties = parties.sort(function (a, b) {
-      return a.numberMembersHere < b.numberMembersHere;
+    parties.sort(function (a, b) {
+      return b.numberMembersHere - a.numberMembersHere;
     });
     return parties;
   };
@@ -289,6 +289,13 @@
       });
       majority.name = majority.name.slice(0, -3);
       majorities.push(majority);
+    });
+
+    majorities.sort(function (a, b) {
+      if (a.set.length === b.set.length) {
+        return b.numberMembersHere - a.numberMembersHere;
+      }
+      return a.set.length - b.set.length;
     });
 
     $.each(majorities, function (index, majority) {
