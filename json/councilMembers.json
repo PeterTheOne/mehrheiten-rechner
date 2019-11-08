@@ -217,57 +217,57 @@
   },
   {
     "akad_Vor": "",
+    "Familienname": "Heuberger",
+    "Vorname_text": "Ingrid",
+    "akad_Nach": "",
+    "Fraktion": "ÖVP",
+    "Zustelladresse": "",
+    "": "",
+    "HAUS-Nr": 0,
+    "PLZ": 0,
+    "ORT": "",
+    "E-Mail": "",
+    "seat": {
+      "x": 4,
+      "y": 1
+    },
+    "image": "Heuberger_Ingrid.jpg"
+  },
+  {
+    "akad_Vor": "",
+    "Familienname": "Günter",
+    "Vorname_text": "Wagner",
+    "akad_Nach": "",
+    "Fraktion": "FPÖ",
+    "Zustelladresse": "",
+    "": "",
+    "HAUS-Nr": "",
+    "PLZ": 0,
+    "ORT": "",
+    "E-Mail": "",
+    "seat": {
+      "x": 7,
+      "y": 1
+    },
+    "image": "Wagner_Guenter.jpg"
+  },
+  {
+    "akad_Vor": "",
     "Familienname": "Hopper",
     "Vorname_text": "Anna",
     "akad_Nach": "",
     "Fraktion": "ÖVP",
     "Zustelladresse": "",
-    "": "Abstallerstraße",
-    "HAUS-Nr": 40,
-    "PLZ": 8052,
-    "ORT": "Graz",
-    "E-Mail": "anna.hopper@stadt.graz.at",
-    "seat": {
-      "x": 4,
-      "y": 1
-    },
-    "image": "Hopper_Anna.jpg"
-  },
-  {
-    "akad_Vor": "",
-    "Familienname": "Hötzl",
-    "Vorname_text": "Christoph",
-    "akad_Nach": "",
-    "Fraktion": "FPÖ",
-    "Zustelladresse": "",
-    "": "Fruhmannweg",
-    "HAUS-Nr": "12 L",
-    "PLZ": 8042,
-    "ORT": "Graz",
-    "E-Mail": "christoph.hoetzl@stadt.graz.at",
-    "seat": {
-      "x": 7,
-      "y": 0
-    },
-    "image": "Hoetzl_Christoph.jpg"
-  },
-  {
-    "akad_Vor": "",
-    "Familienname": "Kaufmann",
-    "Vorname_text": "Martina",
-    "akad_Nach": "MMSc BA",
-    "Fraktion": "ÖVP",
-    "Zustelladresse": "",
-    "": "Babenbergerstraße",
-    "HAUS-Nr": 9,
-    "PLZ": 8020,
-    "ORT": "Graz",
-    "E-Mail": "martina.kaufmann@stadt.graz.at",
+    "": "",
+    "HAUS-Nr": 0,
+    "PLZ": 0,
+    "ORT": "",
+    "E-Mail": "",
     "seat": {
       "x": 1,
       "y": 0
     },
-    "image": "Kaufmann_Martina.jpg"
+    "image": "Hopper_Anna.jpg"
   },
   {
     "akad_Vor": "Univ.-Prof.in  Dr.in",
@@ -300,8 +300,8 @@
     "ORT": "Graz",
     "E-Mail": "marion.kreiner@stadt.graz.at",
     "seat": {
-      "x": 4,
-      "y": 2
+      "x": 2,
+      "y": 1
     },
     "image": "Kreiner_Marion.jpg"
   },
@@ -337,27 +337,27 @@
     "E-Mail": "roland.lohr@stadt.graz.at",
     "seat": {
       "x": 7,
-      "y": 1
+      "y": 0
     },
     "image": "Lohr_Roland.jpg"
   },
   {
-    "akad_Vor": "Mag.a",
-    "Familienname": "Marak-Fischer",
-    "Vorname_text": "Alexandra Elisabeth",
+    "akad_Vor": "",
+    "Familienname": "Bauer",
+    "Vorname_text": "Susanne",
     "akad_Nach": "",
     "Fraktion": "SPÖ",
-    "Zustelladresse": "SPÖ-Klub, Rathaus",
-    "": "Hauptplatz",
-    "HAUS-Nr": 1,
-    "PLZ": 8010,
-    "ORT": "Graz",
-    "E-Mail": "alexandraelisabeth.marak-fischer@stadt.graz.at",
+    "Zustelladresse": "",
+    "": "",
+    "HAUS-Nr": 0,
+    "PLZ": 0,
+    "ORT": "",
+    "E-Mail": "",
     "seat": {
       "x": 4,
-      "y": 3
+      "y": 4
     },
-    "image": "Marak_Fischer_Alexandra.jpg"
+    "image": "Bauer_Susanne.jpg"
   },
   {
     "akad_Vor": "",
@@ -505,21 +505,21 @@
   },
   {
     "akad_Vor": "",
-    "Familienname": "Rajakovics",
-    "Vorname_text": "Thomas",
+    "Familienname": "Hofer",
+    "Vorname_text": "Philipp",
     "akad_Nach": "",
     "Fraktion": "ÖVP",
-    "Zustelladresse": "ÖVP-Club, Rathaus",
-    "": "Hauptplatz",
-    "HAUS-Nr": 1,
-    "PLZ": 8010,
-    "ORT": "Graz",
-    "E-Mail": "thomas.rajakovics@stadt.graz.at",
+    "Zustelladresse": "",
+    "": "",
+    "HAUS-Nr": 0,
+    "PLZ": 0,
+    "ORT": "",
+    "E-Mail": "",
     "seat": {
       "x": 0,
       "y": 1
     },
-    "image": "Rajakovics_Thomas.jpg"
+    "image": "Hofer_Philipp.jpg"
   },
   {
     "akad_Vor": "",
@@ -553,7 +553,7 @@
     "E-Mail": "anna.robosch@stadt.graz.at",
     "seat": {
       "x": 4,
-      "y": 4
+      "y": 3
     },
     "image": "Robosch_Anna.jpg"
   },
@@ -631,21 +631,21 @@
   },
   {
     "akad_Vor": "",
-    "Familienname": "Schwindsackl",
-    "Vorname_text": "Ernest",
+    "Familienname": "Wagner",
+    "Vorname_text": "Sabine",
     "akad_Nach": "",
     "Fraktion": "ÖVP",
     "Zustelladresse": "",
-    "": "Schnabelweg",
-    "HAUS-Nr": 9,
-    "PLZ": 8054,
-    "ORT": "Graz",
-    "E-Mail": "ernest.schwindsackl@stadt.graz.at",
+    "": "",
+    "HAUS-Nr": 0,
+    "PLZ": 0,
+    "ORT": "",
+    "E-Mail": "",
     "seat": {
-      "x": 2,
-      "y": 1
+      "x": 4,
+      "y": 2
     },
-    "image": "Schwindsackl_Ernest.jpg"
+    "image": "Wagner_Sabine.jpg"
   },
   {
     "akad_Vor": "",
@@ -793,21 +793,21 @@
   },
   {
     "akad_Vor": "",
-    "Familienname": "Wagner",
-    "Vorname_text": "Günter",
+    "Familienname": "Sickl",
+    "Vorname_text": "Heinrich",
     "akad_Nach": "",
     "Fraktion": "FPÖ",
     "Zustelladresse": "",
-    "": "Plabutscherstraße",
-    "HAUS-Nr": "123/2",
-    "PLZ": 8051,
-    "ORT": "Graz",
-    "E-Mail": "guenter.wagner@stadt.graz.at",
+    "": "",
+    "HAUS-Nr": "",
+    "PLZ": 0,
+    "ORT": "",
+    "E-Mail": "",
     "seat": {
       "x": 7,
       "y": 2
     },
-    "image": "Wagner_Guenter.jpg"
+    "image": "Sickl_Heinrich.jpg"
   },
   {
     "akad_Vor": "",
@@ -829,26 +829,8 @@
   },
   {
     "akad_Vor": "",
-    "Familienname": "?",
-    "Vorname_text": "?",
-    "akad_Nach": "",
-    "Fraktion": "KPÖ",
-    "Zustelladresse": "",
-    "": "",
-    "HAUS-Nr": 1,
-    "PLZ": 0,
-    "ORT": "",
-    "E-Mail": "",
-    "seat": {
-      "x": 8,
-      "y": 4
-    },
-    "image": ""
-  },
-  {
-    "akad_Vor": "",
-    "Familienname": "?",
-    "Vorname_text": "?",
+    "Familienname": "Luttenberger",
+    "Vorname_text": "Kurt",
     "akad_Nach": "",
     "Fraktion": "KPÖ",
     "Zustelladresse": "",
@@ -861,6 +843,24 @@
       "x": 7,
       "y": 5
     },
-    "image": ""
+    "image": "Luttenberger_Kurt.jpg"
+  },
+  {
+    "akad_Vor": "",
+    "Familienname": "Zitek",
+    "Vorname_text": "Sigrid",
+    "akad_Nach": "Dipl.-Päd.",
+    "Fraktion": "KPÖ",
+    "Zustelladresse": "",
+    "": "",
+    "HAUS-Nr": 1,
+    "PLZ": 0,
+    "ORT": "",
+    "E-Mail": "",
+    "seat": {
+      "x": 8,
+      "y": 4
+    },
+    "image": "Zitek_Sigrid.jpg"
   }
 ]
